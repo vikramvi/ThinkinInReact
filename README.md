@@ -1,3 +1,14 @@
+Upto STEP 2:
+
+1. create project folder in small letters
+2. create boilerplate project with create-react-app
+3. comment App.js
+4. create new file Test.js and copy-paste all the code from Step 2: in Thinking In React
+5. update index.js with input data and root component
+6. comment out data and rendering root component part in Test.js
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
