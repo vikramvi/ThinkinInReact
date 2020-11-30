@@ -7,6 +7,10 @@ Upto STEP 2:
 5. update index.js with input data and root component
 6. comment out data and rendering root component part in Test.js
 
+Upto STEP 4:
+
+7. Added state to the parent component and modified props of child components
+
 ---
 
 # Getting Started with Create React App
