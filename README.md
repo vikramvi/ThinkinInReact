@@ -11,6 +11,10 @@ Upto STEP 4:
 
 7. Added state to the parent component and modified props of child components
 
+Upto STEP 5:
+
+8. Added callback function of props to update state from child component
+
 ---
 
 # Getting Started with Create React App
