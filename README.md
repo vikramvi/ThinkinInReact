@@ -1,3 +1,5 @@
+[Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
+
 Upto STEP 2:
 
 1. create project folder in small letters
